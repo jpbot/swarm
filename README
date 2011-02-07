@@ -1,0 +1,43 @@
+Swarm
+Eye Candy
+==============================================================
+by J.P. McGlinn
+jmcglinn (at) speakeasy (dot) net
+==============================================================
+
+Free use license, but if you find it useful please provide
+attribution.
+
+==============================================================
+
+
+The Swarm is a third party AfterDark screen saver module by
+Leo Breebaart. Should also work with DarkSide of the Mac. I
+found it on AppleFritter with source code. This was the first
+easy source code I could find.
+
+There is a .net C# version floating around but the download 
+link required a login and I was too lazy to create an account.
+
+Swarm is available as a screen saver on SGI IRIX. I have an
+Indy sitting on my desk right now so I can watch it a bit.
+
+I would try out the AfterDark module, but maybe later. I have
+a fitting Mac (WorkGroup Server 6100/66) to try, but don't feel
+like setting it up right now.
+
+I want to make a version that displays on the 128x64 OLED
+display sold by Adafruit.com. I was thinking of using Arduino
+or maybe more interestingly, on the LPC1343 ARM processor. I
+originally thought a nice project would be porting the SSD1306
+Arduino library from Adafruit to the LPC1343 within the LPC1300
+library published by MicroBuilder (Kevin Townsend), but then
+Kevin created SSD1306 support.
+
+
+==============================================================
+HISTORY
+==============================================================
+6-Feb-2011 Swarm github repository created and first working
+prototype in Processing uploaded, along with other bits for
+reference.
