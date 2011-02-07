@@ -1,3 +1,8 @@
+// Swarm Prototype
+// (C) Copyright J.P. McGlinn
+
+// Bee class, superclass for special bees
+
 class  Bee{
   PVector direction;
   PVector position;

@@ -1,3 +1,10 @@
+// Swarm Prototype
+// (C) Copyright J.P. McGlinn
+
+// Queen class, extends Bee
+// queen bees aren't a band, they just fly around the screen while being
+// chased by drone bees.
+
 class Queen extends Bee{
   int borderWidth = 5;
   

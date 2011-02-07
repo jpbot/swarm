@@ -1,3 +1,9 @@
+// Swarm Prototype
+// (C) Copyright J.P. McGlinn
+
+// Drone class, extends Bee
+// drones follow queen bees
+
 class Drone extends Bee{
   Drone(color droneColor){ super(droneColor, 3, 1.0); }
 
