@@ -34,12 +34,25 @@ Arduino library from Adafruit to the LPC1343 within the LPC1300
 library published by MicroBuilder (Kevin Townsend), but then
 Kevin created SSD1306 support.
 
+I took a look at Swarm by Alasdair Turner on
+http://www.openprocessing.org unfortunately it was not the
+swarm following a queen I was looking for, but it was one of
+the closest things I could find. I used a little bit of it,
+but the movement is all wrong in his version so the algorithm
+is different in my work. See Alasdair Turner here:
+http://www.openprocessing.org/portal/?userID=1033
+See his Swarm implementation here:
+http://www.openprocessing.org/visuals/?visualID=7499
 
 ==============================================================
 HISTORY
 ==============================================================
 13-Mar-2011 noop
 
+6-Feb-2011 detailed Alasdair Turner's work and cleaned up
+my Processing prototype a little.
+
 6-Feb-2011 Swarm github repository created and first working
 prototype in Processing uploaded, along with other bits for
 reference.
+

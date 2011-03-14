@@ -1,6 +1,9 @@
-// A simple swarming algorithm
-// (c) Alasdair Turner 2008
+// Swarm Prototype
+// (C) Copyright J.P. McGlinn
 
+// Inspiration from Alasdair Turner, 2008 swarm/fly
+// Inspiration from Leo Breebaart, 1994-1995 AfterDark module The Swarm
+// Inspiration from xscreensaver Swarm, seen on SGI IRIX 6.5
 
 
 Drone [] swarm = new Drone [40];
